@@ -1,0 +1,26 @@
+﻿#borrarboton {
+float:right;
+}
+
+#agregarBt {
+
+    float:right;
+   
+}
+
+.inp {display:block;
+}
+
+#modificarBt {
+    float:right;
+   
+}
+
+
+#opSelect {
+    margin-left:2%;
+    
+}
+#labid {
+    margin-left:2%;
+}

@@ -1,0 +1,9 @@
+C:\Users\mFracasso\documents\visual studio 2013\Projects\CRUD LocalStorage\CRUD LocalStorage\bin\CRUD LocalStorage.dll.config
+C:\Users\mFracasso\documents\visual studio 2013\Projects\CRUD LocalStorage\CRUD LocalStorage\bin\CRUD LocalStorage.dll
+C:\Users\mFracasso\documents\visual studio 2013\Projects\CRUD LocalStorage\CRUD LocalStorage\bin\CRUD LocalStorage.pdb
+C:\Users\mFracasso\documents\visual studio 2013\Projects\CRUD LocalStorage\CRUD LocalStorage\bin\CRUD LocalStorage.xml
+C:\Users\mFracasso\documents\visual studio 2013\Projects\CRUD LocalStorage\CRUD LocalStorage\obj\Release\CRUD_LocalStorage.Resources.resources
+C:\Users\mFracasso\documents\visual studio 2013\Projects\CRUD LocalStorage\CRUD LocalStorage\obj\Release\CRUD LocalStorage.vbproj.GenerateResource.Cache
+C:\Users\mFracasso\documents\visual studio 2013\Projects\CRUD LocalStorage\CRUD LocalStorage\obj\Release\CRUD LocalStorage.dll
+C:\Users\mFracasso\documents\visual studio 2013\Projects\CRUD LocalStorage\CRUD LocalStorage\obj\Release\CRUD LocalStorage.xml
+C:\Users\mFracasso\documents\visual studio 2013\Projects\CRUD LocalStorage\CRUD LocalStorage\obj\Release\CRUD LocalStorage.pdb
