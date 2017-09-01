@@ -1,6 +1,1 @@
-<<<<<<< HEAD
-f asdf asdf
-=======
-hola hola mauri
->>>>>>> rama-de-pruebas
-asjifoajiofaiojsdfjoa
+hello
